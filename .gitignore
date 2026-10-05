@@ -1,0 +1,9 @@
+node_modules/
+# 构建时从 node_modules 同步
+public/vendor/
+# 旧版本地后端的 SQLite 数据与运行日志
+data/
+run/
+.env
+.env.*
+*.log
